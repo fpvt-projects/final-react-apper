@@ -50,6 +50,19 @@
   width: 80%;
 }
 
+.exitBtn {
+  height: 7%;
+  margin-top: 0.7vw;
+  width: 7%;
+  cursor: pointer;
+  margin-left:auto;
+  margin-right: 10%;
+}
+
+.testWrapper {
+  margin-top: 15%;
+}
+
 /* HOME */
 .pokeDexBar {
   height:10%;
